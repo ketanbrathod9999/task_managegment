@@ -24,7 +24,7 @@ A full-featured task management web application built with Laravel 11 and Tailwi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ketanbrathod9999/task_managegment
 cd task-management
 ```
 
